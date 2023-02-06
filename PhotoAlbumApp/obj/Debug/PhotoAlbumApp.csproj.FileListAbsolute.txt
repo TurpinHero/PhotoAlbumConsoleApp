@@ -1,0 +1,7 @@
+F:\4-Avery\Coding\C#\ConsoleApp\PhotoAlbumApp\PhotoAlbumApp\bin\Debug\PhotoAlbumApp.exe.config
+F:\4-Avery\Coding\C#\ConsoleApp\PhotoAlbumApp\PhotoAlbumApp\bin\Debug\PhotoAlbumApp.exe
+F:\4-Avery\Coding\C#\ConsoleApp\PhotoAlbumApp\PhotoAlbumApp\bin\Debug\PhotoAlbumApp.pdb
+F:\4-Avery\Coding\C#\ConsoleApp\PhotoAlbumApp\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.csproj.CoreCompileInputs.cache
+F:\4-Avery\Coding\C#\ConsoleApp\PhotoAlbumApp\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.exe
+F:\4-Avery\Coding\C#\ConsoleApp\PhotoAlbumApp\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.pdb
+F:\4-Avery\Coding\C#\ConsoleApp\PhotoAlbumApp\PhotoAlbumApp\obj\Debug\PhotoAlbumApp.csprojAssemblyReference.cache
